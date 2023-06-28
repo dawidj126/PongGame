@@ -1,5 +1,6 @@
 # PongGame
-Simple game built with Python.
+
+Simple game built with Python (imports: turtle, time)
 
 ## Installation
 
