@@ -15,5 +15,5 @@ git clone https://github.com/dawidj126/PongGame.git
 ## Screenshots
 
 <p align="center">
-   <img src="assets/usage1.png"/>
+   <img src="https://i.ibb.co/D56nLfL/usage1.png"/>
 </p>
